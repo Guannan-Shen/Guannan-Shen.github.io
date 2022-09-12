@@ -1,5 +1,5 @@
 ---
-title: "Reading Notes"
+title: "Reading Notes of Introduction to HTTP"
 published: true
 tag: HTTP, Notes
 ---
